@@ -6,4 +6,4 @@
 1. npn install
 1. npn run webpack
 1. in other terminal
-   1. npn run dev
+- [x] npn run dev
